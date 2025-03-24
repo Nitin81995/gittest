@@ -1,4 +1,4 @@
-publi clss sum{
+public clss sum{
     System.out.println("nj");
 
 }
